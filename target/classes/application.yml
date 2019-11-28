@@ -1,0 +1,15 @@
+server:
+  port: 8080
+  servlet:    context-path: /sso
+
+spring:  mvc:    view:      prefix: /WEB_INF/jsp/
+      suffix: .jsp  thymeleaf:    cache: true  devtools:    restart:      enabled: true  datasource:    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/sso?useUnicode=true&characterEncoding=utf-8&serverTimezone=UTC
+    username: root
+    password: root
+mybatis:  type-aliases-package: com.company.bean
+  mapper-locations: classpath:mapper/*.xml
+
+#文件上传位置地址
+# fileuploadpath = Z:/javaEE/SpringBoot/workspace_springboot/SSOServer_Johnny/src/main/resources/upload/
+fileuploadpath : E:/upload/

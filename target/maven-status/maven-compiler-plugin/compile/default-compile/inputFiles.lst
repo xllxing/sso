@@ -1,0 +1,15 @@
+E:\xll\projects\workspace5\SSOServer\src\main\java\com\company\bean\SSOClient.java
+E:\xll\projects\workspace5\SSOServer\src\main\java\com\company\bean\User.java
+E:\xll\projects\workspace5\SSOServer\src\main\java\com\company\controller\SSOController.java
+E:\xll\projects\workspace5\SSOServer\src\main\java\com\company\dao\IUserDao.java
+E:\xll\projects\workspace5\SSOServer\src\main\java\com\company\service\IUserService.java
+E:\xll\projects\workspace5\SSOServer\src\main\java\com\company\service\impl\UserServiceImpl.java
+E:\xll\projects\workspace5\SSOServer\src\main\java\com\company\App.java
+E:\xll\projects\workspace5\SSOServer\src\main\java\com\company\service\impl\SSOOnlineUserList.java
+E:\xll\projects\workspace5\SSOServer\src\main\java\com\company\service\impl\SSOTokenServiceImpl.java
+E:\xll\projects\workspace5\SSOServer\src\main\java\com\company\service\ISSOTokenService.java
+E:\xll\projects\workspace5\SSOServer\src\main\java\com\company\util\SSOFileUpload.java
+E:\xll\projects\workspace5\SSOServer\src\main\java\com\company\bean\OnlineUserInfo.java
+E:\xll\projects\workspace5\SSOServer\src\main\java\com\company\util\Passport.java
+E:\xll\projects\workspace5\SSOServer\src\main\java\com\company\controller\CheckCodeController.java
+E:\xll\projects\workspace5\SSOServer\src\main\java\com\company\service\impl\CheckCodeService.java
